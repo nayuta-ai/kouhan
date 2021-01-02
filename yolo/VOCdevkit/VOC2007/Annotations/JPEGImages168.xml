@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>JPEGImages168.jpg</filename>
+	<path>C:\Users\nagai-yuta\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\JPEGImages168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Par</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>116</ymin>
+			<xmax>268</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
